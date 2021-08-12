@@ -1,4 +1,4 @@
-### Hello 👋
+### 👋 Hello
 
 I’m a Computer Science student at the University of British Columbia, Vancouver. 
 I work in the [Computer Vision Lab](https://vision.cs.ubc.ca) with Prof. Leonid Sigal. My interests lie in multimodal vision-text 
@@ -9,6 +9,9 @@ _Quick facts:_
 - 📫 How to reach me: message me on [Instagram](https://www.instagram.com/aditya.chinchure/)
 - 💬 Ask me about Tesla, Apple, or anything tech and photography!
 - ⚡ Fun fact: I do photography as a hobby. My work has over 100 million views on [Unsplash](https://unsplash.com/@adityachinchure).
+
+
+### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Paper Summary — A Generalization of Transformer Networks to Graphs](https://medium.com/technonerds/paper-summary-a-generalization-of-transformer-networks-to-graphs-229e8b7c2d6f?source=rss-1bb50ac72522------2)
