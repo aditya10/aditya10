@@ -1,7 +1,7 @@
 ### 👋 Hello
 
 I’m a Computer Science student at the University of British Columbia, Vancouver. 
-I work in the [Computer Vision Lab](https://vision.cs.ubc.ca) with Prof. Leonid Sigal. My interests lie in multimodal vision-text 
+I work in the [Computer Vision Lab](https://vision.cs.ubc.ca) with Dr. Leonid Sigal and Dr. Renjie Liao. My interests lie in multimodal vision-text 
 models and graph-based techniques for image segmentation and object localization.
 
 _Quick facts:_
